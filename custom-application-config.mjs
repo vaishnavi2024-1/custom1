@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'customtest',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'clrq5dnzq000d1427ch90awps',
+      url: 'https://customvaish02.vercel.app',
     },
   },
   oAuthScopes: {
